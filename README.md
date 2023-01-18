@@ -1,10 +1,10 @@
 # Exploratory-Data-Analysis-
 Introduction
-# Business Context. The city of New York has seen a rise in the number of accidents on the roads in the city. They would like to know if the number of accidents have increased in the last few weeks. For all the reported accidents, they have collected details for each accident and have been maintaining records for the past year and a half (from January 2018 to August 2019).
+Business Context. The city of New York has seen a rise in the number of accidents on the roads in the city. They would like to know if the number of accidents have increased in the last few weeks. For all the reported accidents, they have collected details for each accident and have been maintaining records for the past year and a half (from January 2018 to August 2019).
 
 The city has contracted you to build visualizations that would help them identify patterns in accidents, which would help them take preventive actions to reduce the number of accidents in the future. They would like specific information on certain parameters like borough, time of day, reason for accident, etc.
 
-# Business Problem. Your task is to format the given data and provide visualizations that would answer the specific questions the client has, which are mentioned below.
+Business Problem. Your task is to format the given data and provide visualizations that would answer the specific questions the client has, which are mentioned below.
 
 Analytical Context. You are given a CSV file (stored in the already created data folder) containing details about each accident like date, time, location of the accident, reason for the accident, types of vehicles involved, injury and death count, etc. The delimiter in the given CSV file is ; instead of the default ,. You will be performing the following tasks on the data:
 
